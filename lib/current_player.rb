@@ -4,6 +4,6 @@ def turn_count(board)
     if (ele == "X") || (ele == "O")
       counter += 1
     end
-    return cunter
+    return counter
   end
 end
